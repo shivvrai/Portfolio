@@ -199,7 +199,7 @@ export const FOOTER_DATA = [
       {
         name: "Email Me",
         icon: FaEnvelope,
-        link: "mailto:yasmitrai01@gmail.com",
+        link: "mailto:yashmitrai01@gmail.com",
       },
     ],
   },
@@ -214,7 +214,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:yasmitrai01@gmail.com",
+        link: "mailto:yashmitrai01@gmail.com",
       },
     ],
   },

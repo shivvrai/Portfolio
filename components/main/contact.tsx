@@ -65,7 +65,7 @@ export const Contact = () => {
           </Link>
 
           <Link
-            href="mailto:yasmitrai01@gmail.com"
+            href="mailto:yashmitrai01@gmail.com"
             className="group flex items-center gap-2 px-6 py-3 rounded-xl border border-[#2A0E61] bg-[rgba(3,0,20,0.6)] text-gray-300 hover:border-[#7042f8] hover:text-white hover:shadow-[0_0_25px_rgba(112,66,248,0.2)] transition-all duration-300 hover:-translate-y-1"
           >
             <span>📧</span>
