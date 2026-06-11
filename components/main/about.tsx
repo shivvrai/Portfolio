@@ -36,11 +36,11 @@ export const About = () => {
           className="flex flex-col gap-5 text-gray-300 text-[16px] leading-[1.9]"
         >
           <p>
-            I&apos;m a Computer Science student at{" "}
+            I&apos;m a{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-cyan-400 font-semibold">
-              Lovely Professional University
+              Computer Science student
             </span>{" "}
-            with a strong foundation in{" "}
+            who loves observing and learning new things. I have a strong foundation in{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-cyan-400 font-semibold">
               Data Structures & Algorithms, Machine Learning, and System Design
             </span>
