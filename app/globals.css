@@ -219,21 +219,17 @@ html {
   padding: 0 1.5rem;
 }
 
-/* Make certain cards span 2 columns on desktop for visual interest */
-.skills-bento > :nth-child(3) {
-  grid-column: span 1;
-}
-
-.skills-bento > :nth-child(6) {
-  grid-column: span 2;
+/* Make certain cards span full width on desktop for visual interest */
+.skills-bento > :nth-child(7) {
+  grid-column: span 3;
 }
 
 @media (max-width: 1024px) {
   .skills-bento {
     grid-template-columns: repeat(2, 1fr);
   }
-  .skills-bento > :nth-child(6) {
-    grid-column: span 1;
+  .skills-bento > :nth-child(7) {
+    grid-column: span 2;
   }
 }
 
