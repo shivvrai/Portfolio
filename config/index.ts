@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Rai Yashmit — Computer Science Student | DSA & ML",
+  title: "Rai Yashmit | Computer Science Student | DSA & ML",
   description:
-    "Portfolio of Rai Yashmit — CS student passionate about Data Structures & Algorithms, Machine Learning, and System Design. Explore my projects, skills, and achievements.",
+    "Portfolio of Rai Yashmit | CS student passionate about Data Structures & Algorithms, Machine Learning, and System Design. Explore my projects, skills, and achievements.",
   keywords: [
     "rai yashmit",
     "computer science",

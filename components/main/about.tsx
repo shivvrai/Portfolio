@@ -54,7 +54,7 @@ export const About = () => {
               AI technologies, advanced DSA patterns, and system design fundamentals
             </span>{" "}
             to understand how complex systems work under the hood. My journey involves
-            learning the &quot;why&quot; behind technology—from distributed systems architecture
+            learning the &quot;why&quot; behind technology from distributed systems architecture
             to deep learning model optimization.
           </p>
 

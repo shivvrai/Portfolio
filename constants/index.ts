@@ -120,7 +120,7 @@ export const PROJECTS = [
 export const ACHIEVEMENTS = [
   {
     icon: "🏆",
-    title: "High CGPA — 8.84/10",
+    title: "High CGPA 8.84/10",
     description:
       "Maintained a CGPA of 8.84/10, demonstrating consistent academic performance and discipline.",
     meta: "Lovely Professional University",
@@ -128,7 +128,7 @@ export const ACHIEVEMENTS = [
   },
   {
     icon: "🧮",
-    title: "Maths Olympiad — Zonal Rank 54",
+    title: "Maths Olympiad Zonal Rank 54",
     description:
       "Secured Zonal Rank 54 in the International Mathematics Olympiad, demonstrating exceptional mathematical reasoning and problem-solving ability.",
     meta: "Mathematics • Olympiad • Zonal Level",
@@ -136,7 +136,7 @@ export const ACHIEVEMENTS = [
   },
   {
     icon: "☁️",
-    title: "Elite Certification — Cloud Computing (NPTEL)",
+    title: "Elite Certification Cloud Computing (NPTEL)",
     description:
       "Achieved Elite status in NPTEL Cloud Computing, covering distributed systems, virtualization, and cloud architecture fundamentals.",
     meta: "NPTEL • Cloud Computing • Distributed Systems",
@@ -144,7 +144,7 @@ export const ACHIEVEMENTS = [
   },
   {
     icon: "🎯",
-    title: "JEE Mains & Advanced — 97 Percentile",
+    title: "JEE Mains & Advanced 97 Percentile",
     description:
       "Scored 97 percentile in JEE Mains and Advanced, ranking among the top 3% of over 1 million candidates nationwide.",
     meta: "JEE Mains • JEE Advanced • Top 3%",
@@ -152,7 +152,7 @@ export const ACHIEVEMENTS = [
   },
   {
     icon: "📊",
-    title: "DSA Practice — 400+ Problems",
+    title: "DSA Practice 400+ Problems",
     description:
       "Solved 400+ problems across platforms, focusing on optimized solutions and deep understanding of time and space complexity.",
     meta: "LeetCode • DSA • Optimization",
