@@ -1,13 +1,11 @@
 "use client";
 
-import { SparklesIcon } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
 import Image from "next/image";
 
 import {
   slideInFromLeft,
   slideInFromRight,
-  slideInFromTop,
 } from "@/lib/motion";
 
 export const HeroContent = () => {
@@ -18,16 +16,6 @@ export const HeroContent = () => {
       className="flex flex-col lg:flex-row items-center justify-center px-5 md:px-20 mt-24 md:mt-40 w-full z-[20]"
     >
       <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-center lg:text-start items-center lg:items-start">
-        <motion.div
-          variants={slideInFromTop}
-          className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]]"
-        >
-          <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
-          <h1 className="Welcome-text text-[13px]">
-            Computer Science Student
-          </h1>
-        </motion.div>
-
         <motion.div
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-2 mt-6 text-4xl md:text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
