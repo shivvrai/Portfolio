@@ -79,7 +79,7 @@ export const PROJECTS = [
     description:
       "Implemented a class-conditional Denoising Diffusion Probabilistic Model to generate MNIST digits using classifier-free guidance. Built the entire DDPM pipeline from scratch with progressive noise scheduling, conditional sampling control, and complete visualization utilities.",
     image: "/projects/project-1.png",
-    link: "https://github.com/shivvrai/ddpm_mnist",
+    link: "https://mnist-image-ddpm.vercel.app/",
     tech: "Python, TensorFlow/Keras, NumPy, Matplotlib",
   },
   {
